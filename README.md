@@ -17,15 +17,15 @@ Each simulation can be run individually:
 
 - **▶️ Run a specific solver**
   ```bash
-  python "Algorithmes/Problème des 3 corps RK4g.py"
+  python "Algorithms/3_body_problem_RK4_left.py"
 
 - **🎞 Animate the orbits**
   ```bash
-  python "Animation graphique RK4g.py"
+  python "Output/Animations/Animation_RK4_left.py"
 
 - **📈 Compare multiple methods**
   ```bash
-  python "MI_Equa_Diff_Comparaison_des_methodes_et_courbes.py"
+  python "Output/MI_Equa_Diff_Methods&Curves_Comparison.py"
 
 ## 📊 Output
 
